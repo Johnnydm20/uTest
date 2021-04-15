@@ -1,0 +1,4 @@
+#Mon Apr 15 17:54:09 BOT 2019
+base.0=C\:\\Users\\johnny.dominguez\\AndroidStudioProjects\\Gomeria\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

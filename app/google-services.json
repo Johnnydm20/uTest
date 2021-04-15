@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312719523700",
+    "firebase_url": "https://gomeria-804d3.firebaseio.com",
+    "project_id": "gomeria-804d3",
+    "storage_bucket": "gomeria-804d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312719523700:android:e3b653eb05a82cbe",
+        "android_client_info": {
+          "package_name": "com.example.gomeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312719523700-2hdaabvhcuvd69phevujj7l3hjms5rmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gomeria",
+            "certificate_hash": "e125fd7081e2c4db92039653b7640eafae9cf7fc"
+          }
+        },
+        {
+          "client_id": "312719523700-4nscjh3pl0c105srgvg04qqea6mqglct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNNGAiEjQx4BfU5nSqibq0sBGZUW5IWHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312719523700-4nscjh3pl0c105srgvg04qqea6mqglct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

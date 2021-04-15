@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_margin="5dp">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardTrabajo"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        app:cardBackgroundColor="#fffffe91" >
+
+        <ImageView
+            android:id="@+id/photoMovilidad"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/aire_llanta"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:id="@+id/nameMovilidad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Aire"
+            android:layout_gravity="bottom"
+            android:background="#8c000000"
+            android:textColor="#ffe3e3e3"
+            android:textSize="30sp"
+            android:textStyle="bold"/>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
